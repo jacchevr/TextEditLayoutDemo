@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Text Edit Layout Demo</string>
+  <string name="first_name">First name</string>
+  <string name="last_name">Last Name</string>
+</resources>
